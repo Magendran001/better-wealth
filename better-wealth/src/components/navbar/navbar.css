@@ -1,0 +1,11 @@
+.navbar_total{
+    border: 1px solid red;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    padding: 0px 40px;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+
+}
